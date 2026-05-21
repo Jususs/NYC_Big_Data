@@ -1,4 +1,5 @@
 # NYC_Big_Data
+Permitted Event Information, NYC Dot Traffic Speeds and NOAA Parquet Files were to large to upload to repo without LFS (hence were not uploaded).
 
 ## Datasets
 - NYC DOT Traffic Speeds
