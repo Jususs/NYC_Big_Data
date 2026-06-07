@@ -1,6 +1,20 @@
 # NYC_Big_Data
-Permitted Event Information and NYC Dot Traffic Speeds were to large to upload to repo without LFS (hence were not uploaded).
 
+### Questions answered:
+  - What is an anomaly?
+  - Does rain or snow lead to more cautious (slower) driving?
+  - How does bad weather affect accidents?
+  - Do twilight conditions and low visibility (visibility data from NOAA logs) have a greater impact on the accident rate than actual precipitation?
+  - While there are more accidents when traffic density is high (low speed), are there fewer serious accidents (injuries/fatalities)? And does open road driving at night lead to more serious accidents?
+
+
+---
+
+Permitted Event Information and NYC Dot Traffic Speeds (raw parquet) were to large to upload to repo without LFS (hence were not uploaded).
+
+Later agreed that Traffic Volumes not needed
+
+---
 ## Datasets
 - NYC DOT Traffic Speeds
   - https://data.cityofnewyork.us/Transportation/DOT-Traffic-Speeds/i4gi-tjb9/about_data
