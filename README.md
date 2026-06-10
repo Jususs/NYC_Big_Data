@@ -1,7 +1,7 @@
 # NYC_Big_Data
 
-### Amount of years used
-  - ...
+### Years used
+  - 2023, 2024, 2025
 
 ### Questions answered
   - [What is an anomaly?](questions/anomaly.ipynb) 
@@ -9,6 +9,7 @@
   - [How does bad weather affect accidents?](questions/badWeatherInfluence.ipynb)
   - [Do twilight conditions and low visibility (visibility data from NOAA logs) have a greater impact on the accident rate than actual precipitation?](questions/visibilityAccidentRate.ipynb)
   - [While there are more accidents when traffic density is high (low speed), are there fewer serious accidents (injuries/fatalities)? And does open road driving at night lead to more serious accidents?](questions/densityAccidents.ipynb)
+  - TODO: events?
 
 ### Visualizations
   - ...
