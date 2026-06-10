@@ -1,13 +1,17 @@
 # NYC_Big_Data
 
-### Questions answered:
-  - What is an anomaly?
-  - Does rain or snow lead to more cautious (slower) driving?
-  - How does bad weather affect accidents?
-  - Do twilight conditions and low visibility (visibility data from NOAA logs) have a greater impact on the accident rate than actual precipitation?
-  - While there are more accidents when traffic density is high (low speed), are there fewer serious accidents (injuries/fatalities)? And does open road driving at night lead to more serious accidents?
+### Amount of years used
+  - ...
 
+### Questions answered
+  - [What is an anomaly?](questions/anomaly.ipynb) 
+  - [Does rain or snow lead to more cautious (slower) driving?](questions/drivingBehaviour.ipynb)
+  - [How does bad weather affect accidents?](questions/badWeatherInfluence.ipynb)
+  - [Do twilight conditions and low visibility (visibility data from NOAA logs) have a greater impact on the accident rate than actual precipitation?](questions/visibilityAccidentRate.ipynb)
+  - [While there are more accidents when traffic density is high (low speed), are there fewer serious accidents (injuries/fatalities)? And does open road driving at night lead to more serious accidents?](questions/densityAccidents.ipynb)
 
+### Visualizations
+  - ...
 ---
 
 Permitted Event Information and NYC Dot Traffic Speeds (raw parquet) were to large to upload to repo without LFS (hence were not uploaded).
